@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Elena
+- 👀 I’m interested in web-development and gamedev
+- 🌱 I’m currently learning C++, JavaScript, PHP Html, CSS 
+- 📫 How to reach me ielliena122@gmail.com

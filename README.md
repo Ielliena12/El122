@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm [Your Name]!  
+# 🚀 Hello, I'm Elena-Stefania!  
 
 ### 👨‍💻 About Me:  
 - **Backend Developer** with **5+ years** of experience  
@@ -28,8 +28,8 @@
 ---
 
 ### 📫 Let's Connect:  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ielliena122@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ielliena)  
 
 ---
 
